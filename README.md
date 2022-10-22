@@ -6,3 +6,7 @@
 ## Create User
 ![image](https://user-images.githubusercontent.com/79159894/197319621-6eb62a72-e4c0-4cf2-8bbd-ece5ab791ace.png)
 
+## Modify PHP File Name
+
+## Run the SQL scrip to creat table and insert data
+
