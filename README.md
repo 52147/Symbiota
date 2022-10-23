@@ -27,13 +27,19 @@
 ## Stuck in this issue --- vagrant up : The following SSH command responded with a non-zero exit status.
 
 Not found the solution yet.
- ``` 
+``` 
 cd symbiota-vagrant
 vagrant up
- ```
-  ```
+```
+```
 vagrant plugin update vagrant-vbguest
- ```
+```
+ 
+ Not help
+ ``` 
+ vagrant halt/suspend
+ vagrant reload
+ ``` 
 - Reference
 - https://github.com/hashicorp/vagrant/issues/1659
 
