@@ -6,7 +6,7 @@
 ## Create User
 ![image](https://user-images.githubusercontent.com/79159894/197319621-6eb62a72-e4c0-4cf2-8bbd-ece5ab791ace.png)
 
-## Run the SQL scrip to creat table and insert data
+## Run the SQL script to create table and insert data
 
 - db_schema-1.0.sql
 - db_schema_patch-1.1.sql, db_schema_patch-1.2.sql
