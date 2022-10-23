@@ -20,3 +20,20 @@
 - Rename head_template.php to head.php
 - Rename usagepolicy_template.php to usagepolicy.php
 
+
+## Symbiota vagrant
+- https://github.com/BU-Spark/se-symbiota-vagrant
+
+## Stuck in this issue --- vagrant up : The following SSH command responded with a non-zero exit status.
+
+Not found the solution yet.
+ ``` 
+cd symbiota-vagrant
+vagrant up
+ ```
+  ```
+vagrant plugin update vagrant-vbguest
+ ```
+- Reference
+- https://github.com/hashicorp/vagrant/issues/1659
+
