@@ -25,6 +25,7 @@
 - https://github.com/BU-Spark/se-symbiota-vagrant
 
 ## Stuck in this issue --- vagrant up : The following SSH command responded with a non-zero exit status.
+![image](https://user-images.githubusercontent.com/79159894/197408683-fb6a6908-7b40-4fc0-aa1a-3a7f361b0a31.png)
 
 Not found the solution yet.
 ``` 
