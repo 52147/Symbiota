@@ -44,3 +44,24 @@ vagrant plugin update vagrant-vbguest
 - Reference
 - https://github.com/hashicorp/vagrant/issues/1659
 
+## Check the existing key
+- list all files that contains existing key 
+ ``` 
+ls -al ~/.ssh
+ ``` 
+ ![image](https://user-images.githubusercontent.com/79159894/198750117-2aefda71-626b-4dd6-a1ce-5ee62902bb99.png)
+- File name that supprot git hub public key:
+  - id_rsa.pub
+  - id_ecdsa.pub
+  - id_ed25519.pub
+### Reference
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
+
+## Generate the SSH key
+ ``` 
+ssh-keygen -t rsa 
+ ``` 
+- Open file at C:\Users\debra/.ssh/id_rsa, public key store in it.
+![image](https://user-images.githubusercontent.com/79159894/198750322-9b3f9736-5d8d-49cb-971e-a09a754fe20d.png)
+### Reference
+https://inchoo.net/dev-talk/how-to-generate-ssh-keys-for-git-authorization/
