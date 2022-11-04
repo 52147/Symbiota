@@ -67,6 +67,7 @@ ssh-keygen -t rsa
 https://inchoo.net/dev-talk/how-to-generate-ssh-keys-for-git-authorization/
 
 ## Use ssh to connect the server through vscode
+0. add the 3 extensions for connecting the server use SSH
 1. `ctrl + shift + p` open command of vscode
 2. Select `SSH-Remote Host: Connect to host`
 3. Select `configure SSH Host`, configure file will be opened
@@ -82,4 +83,8 @@ https://inchoo.net/dev-talk/how-to-generate-ssh-keys-for-git-authorization/
 5. After that, `ctrl + shift + p` open command of vscode
 6. select `SSH-Remote Host: Connect to host`, then we can see the Host herbaia in the selections
 7. Clik it and new window will pop out and the green left corner will start run `Opening Remote`.
-8. Then click the `Exploer` and open folder and ok, we can have the all symbiota file on the server.
+8. Then click the `Exploer` and open folder and ok, we can have the all symbiota file on the remote server.
+![image](https://user-images.githubusercontent.com/79159894/199890184-857b3ea0-181e-4dc3-bdd4-f1aa0f130645.png)
+
+### Reference
+https://code.visualstudio.com/docs/remote/ssh
