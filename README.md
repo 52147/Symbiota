@@ -70,7 +70,7 @@ https://inchoo.net/dev-talk/how-to-generate-ssh-keys-for-git-authorization/
 0. add the 3 extensions for connecting the server: `SSH Remote - SSH Remote` `SSH: Editing Configuration` `Remote Development`
 1. `ctrl + shift + p` open command of vscode
 2. Select `SSH-Remote Host: Connect to host`
-3. Select `configure SSH Host`, configure file will be opened
+3. Select `configure SSH Host`, then select the path of config file `C:\Users\debra\.ssh\config` ,configure file will be opened
 4. Add host name and infromation below into the file.
  ``` 
  Host herbaria
