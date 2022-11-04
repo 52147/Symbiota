@@ -87,5 +87,5 @@ https://inchoo.net/dev-talk/how-to-generate-ssh-keys-for-git-authorization/
 ![image](https://user-images.githubusercontent.com/79159894/199890184-857b3ea0-181e-4dc3-bdd4-f1aa0f130645.png)
 
 ### Reference
-https://code.visualstudio.com/docs/remote/ssh
-https://www.youtube.com/watch?v=rh1Ag41J6IA
+- https://code.visualstudio.com/docs/remote/ssh
+- https://www.youtube.com/watch?v=rh1Ag41J6IA
