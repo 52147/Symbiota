@@ -66,8 +66,8 @@ ssh-keygen -t rsa
 ### Reference
 https://inchoo.net/dev-talk/how-to-generate-ssh-keys-for-git-authorization/
 
-## Use ssh to connect the server through vscode
-0. add the 3 extensions for connecting the server use SSH
+## Use ssh to connect the remote server through vscode
+0. add the 3 extensions for connecting the server: `SSH Remote - SSH Remote` `SSH: Editing Configuration` `Remote Development`
 1. `ctrl + shift + p` open command of vscode
 2. Select `SSH-Remote Host: Connect to host`
 3. Select `configure SSH Host`, configure file will be opened
